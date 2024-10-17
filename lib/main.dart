@@ -28,7 +28,7 @@ class MyApp extends StatelessWidget {
   }
 }
 
-// Providers
+
 final nameProvider = StateProvider<String>((ref) => '');
 final currentQuestionIndexProvider = StateProvider<int>((ref) => 0);
 final noButtonPositionProvider = StateProvider<Offset>((ref) => Offset.zero);
