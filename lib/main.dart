@@ -298,29 +298,6 @@ class _DateProposalPageState extends ConsumerState<DateProposalPage> with Single
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 // import 'package:flutter/material.dart';
 // import 'package:confetti/confetti.dart';
 // import 'dart:math';
